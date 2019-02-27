@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afda956e-1fed-4c86-b2e4-b36c852f1850" name="Default Changelist" comment="" />
+    <list default="true" id="afda956e-1fed-4c86-b2e4-b36c852f1850" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -31,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,15 +42,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/OpenSite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+            <state relative-caret-position="171">
+              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2256#2257#0" expanded="true" />
                 <element signature="e#2285#2286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1329#1330#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,10 +87,11 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/MainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/OpenSite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Lesson5.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -133,7 +150,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551264244701" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551271395357" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HT1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -156,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OpenSite">
+  <component name="RunManager" selected="JUnit.Lesson5">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainClass" />
       <module name="com.automationCourses.gradleselenium.main" />
@@ -164,10 +181,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenSite" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <configuration name="Lesson5" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="com.automationCourses.gradleselenium.main" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenSite" />
+      <option name="MAIN_CLASS_NAME" value="Lesson5" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
@@ -177,7 +194,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.MainClass" />
-      <item itemvalue="JUnit.OpenSite" />
+      <item itemvalue="JUnit.Lesson5" />
     </list>
     <recent_temporary>
       <list>
@@ -199,38 +216,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenSite - 2019.02.26 at 15h 56m 40s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenSite - 2019.02.26 at 16h 11m 06s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenSite - 2019.02.26 at 16h 11m 52s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenSite - 2019.02.26 at 16h 13m 11s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenSite - 2019.02.27 at 12h 21m 10s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenSite - 2019.02.27 at 12h 21m 59s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenSite - 2019.02.27 at 12h 35m 09s.xml">
-      <configuration name="OpenSite" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OpenSite - 2019.02.27 at 12h 36m 18s.xml">
       <configuration name="OpenSite" configurationId="JUnit" />
     </history-entry>
     <history-entry file="OpenSite - 2019.02.27 at 12h 37m 29s.xml">
       <configuration name="OpenSite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 13m 57s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 18m 39s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 23m 32s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 28m 26s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 28m 55s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 29m 39s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 41m 02s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Lesson5 - 2019.02.27 at 14h 42m 28s.xml">
+      <configuration name="Lesson5" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,7 +260,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34985834" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34985834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -271,7 +292,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -287,12 +308,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/OpenSite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        <state relative-caret-position="171">
+          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2256#2257#0" expanded="true" />
             <element signature="e#2285#2286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Lesson5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
           </folding>
         </state>
       </provider>
